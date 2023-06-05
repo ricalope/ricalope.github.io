@@ -1681,3 +1681,7 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+.contact-h3:hover {
+    color: lightblue;
+}
